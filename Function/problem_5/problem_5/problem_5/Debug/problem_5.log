@@ -1,0 +1,4 @@
+﻿  problem_5.cpp
+F:\Personal_documents\C++\Practice\Function\problem_5\problem_5\problem_5\problem_5.cpp(48,36): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+F:\Personal_documents\C++\Practice\Function\problem_5\problem_5\problem_5\problem_5.cpp(79,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  problem_5.vcxproj -> F:\Personal_documents\C++\Practice\Function\problem_5\problem_5\Debug\problem_5.exe

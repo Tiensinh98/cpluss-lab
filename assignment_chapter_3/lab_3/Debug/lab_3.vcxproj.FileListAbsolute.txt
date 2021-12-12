@@ -1,0 +1,4 @@
+D:\nam 2\Ki thuat lap trinh\C\Practice\assignment_chapter_3\lab_3\Debug\lab_3.exe
+D:\nam 2\Ki thuat lap trinh\C\Practice\assignment_chapter_3\lab_3\Debug\lab_3.pdb
+C:\Personal documents\C++\Practice\assignment_chapter_3\lab_3\Debug\lab_3.exe
+C:\Personal documents\C++\Practice\assignment_chapter_3\lab_3\Debug\lab_3.pdb

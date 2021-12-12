@@ -1,0 +1,3 @@
+﻿  assignment_chapter_5.cpp
+C:\Personal documents\C++\Practice\assignment_chapter_5\assignment_chapter_5\assignment_chapter_5.cpp(462,6): warning C4804: '%': unsafe use of type 'bool' in operation
+  assignment_chapter_5.vcxproj -> C:\Personal documents\C++\Practice\assignment_chapter_5\Debug\assignment_chapter_5.exe

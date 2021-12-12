@@ -1,0 +1,3 @@
+﻿  assignment_chapter_2.cpp
+D:\nam 2\Ki thuat lap trinh\C\Practice\assignment_chapter_2\assignment_chapter_2.cpp(21,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  assignment_chapter_2.vcxproj -> D:\nam 2\Ki thuat lap trinh\C\Practice\assignment_chapter_2\Debug\assignment_chapter_2.exe

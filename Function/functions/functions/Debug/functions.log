@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Personal_documents\C++\Practice\Function\functions\functions\main.cpp(132,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  functions.vcxproj -> F:\Personal_documents\C++\Practice\Function\functions\Debug\functions.exe

@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(58,15): error C2371: 'n1': redefinition; different basic types
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(49): message : see declaration of 'n1'
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(59,15): error C2086: 'unsigned int n2': redefinition
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50): message : see declaration of 'n2'
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(61,12): warning C4018: '>': signed/unsigned mismatch
+F:\Personal_documents\C++\Practice\Function\functions_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,12): error C2088: '>>': illegal for class
