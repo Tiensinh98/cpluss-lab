@@ -1,2 +1,2 @@
 # cpluss-lab
-practises of cpluss lab
+practises of cplusplus lab
