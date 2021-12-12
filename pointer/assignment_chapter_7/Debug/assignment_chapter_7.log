@@ -1,0 +1,3 @@
+﻿  assignment_chapter_7.cpp
+F:\Personal documents\C++\Practice\pointer\assignment_chapter_7\assignment_chapter_7.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  assignment_chapter_7.vcxproj -> F:\Personal documents\C++\Practice\pointer\Debug\assignment_chapter_7.exe
